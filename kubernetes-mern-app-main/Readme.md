@@ -1,8 +1,9 @@
 # commands.
 
 ```
-brew install kubectl
-brew install minikube
+winget install -e --id Kubernetes.kubectl
+winget install minikube
+
 ```
 ++++++++++++++++++++++++++++++++++++++
 ```
