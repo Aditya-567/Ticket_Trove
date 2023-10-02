@@ -1,4 +1,4 @@
-# commands that are used in this video.
+# commands.
 
 ```
 brew install kubectl
