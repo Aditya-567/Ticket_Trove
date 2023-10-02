@@ -9,8 +9,8 @@ winget install minikube
 ```
 minikube start
 kubectl get pod
-kubectl apply -f mongo-config.yaml
 kubectl apply -f secret.yaml
+kubectl apply -f mongo-config.yaml
 kubectl apply -f mongo-app.yaml
 kubectl apply -f web-app.yaml
 kubectl get pod
