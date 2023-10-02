@@ -1,4 +1,6 @@
 # Ticket_Trove
 
-Succesfully Tested Container connection using port
+1.Succesfully Tested Container connection using port
 and curentlt testing Firebase authentication
+
+2.sucessfully built login pop model 
